@@ -15,3 +15,4 @@ aim: use this script to leverage ai and keep working on your project even when y
 ### how to improve
 - make the bot learn from previous errors, and fine tune it
 - could be helpful in CI/CD and devops tooling
+- could add ssh tunnels to access this feature from phone ig
